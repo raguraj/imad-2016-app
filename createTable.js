@@ -1,4 +1,5 @@
 
+console.log("Loaded createTable.js");
 createTable();
 
 function createTable () { 
