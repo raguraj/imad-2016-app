@@ -22,7 +22,7 @@ function createTable () {
           // add the row to the end of the table body
     tblBody.appendChild(row);
 
-   };  
+   }
   // put the <tbody> in the <table>
   tbl.appendChild(tblBody);
   // appends <table> into <body>
