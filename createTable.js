@@ -5,6 +5,8 @@ function createTable () {
   // creates a <table> element and a <tbody> element
   var tbl     = document.createElement("table");
   var tblBody = document.createElement("tbody");
+  
+  console.log("Loaded CreateTable");
  
 //  <table id="myTable" border="1">
   for (var i =0; i <3; i++ )
