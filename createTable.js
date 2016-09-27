@@ -1,4 +1,4 @@
-var function createTable () { 
+function createTable () { 
     // get the reference for the body
     var body = document.getElementsByTagName("body")[0];
 
@@ -6,7 +6,7 @@ var function createTable () {
   var tbl     = document.createElement("table");
   var tblBody = document.createElement("tbody");
  
-  <table id="myTable" border="1">
+//  <table id="myTable" border="1">
   for (var i =0; i <3; i++ )
   {
      var row = document.createElement("tr");
