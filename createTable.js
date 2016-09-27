@@ -1,3 +1,6 @@
+
+createTable();
+
 function createTable () { 
     // get the reference for the body
     var body = document.getElementsByTagName("body")[0];
